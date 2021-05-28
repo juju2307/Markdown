@@ -3,7 +3,8 @@
 > - Martin Luther King
 
 
-! [Image de moi](/c/Users/HP/OneDrive/Images/BeCode/cv/photocv2.JPG.jpg
+! [Image de moi] (/c/Users/HP/OneDrive/Images/BeCode/cv/photocv2.JPG.jpg)
+
 
 
 
