@@ -6,8 +6,7 @@
 ![Image de moi](https://avatars.githubusercontent.com/u/83067647?s=120&v=)
 
 
-## Ergothérapeute en cours de formation en web development, organisée, ponctuelle et trvaillant facilement en équipe.
----
+## Occupational therapist in the course of training in web development, organized, punctual and easily trvaillant as a team.
 
   Question   |   Answer
   ---------  |------------
@@ -29,7 +28,8 @@
 ##### You can always count on me when
 ---
 
-I am an organized, punctual person and I am persevering. I will be able to bring rigor to the group while also knowing how to have fun.
+I am an organized, punctual person and I am persevering. I will be able to bring rigor to the group while also knowing how to have fun. I like ita lot of team work because there are many more ideas in 10 heads than in one. 
+
   
 
 ##### A funny story
