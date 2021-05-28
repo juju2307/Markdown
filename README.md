@@ -15,10 +15,9 @@
   Favorite Color |  Blue
   Favorite food | Pasta
 
-  Pinneapple on pizza :
-"markdown-checkbox.withBulletPoint":rue 
-  - [  ] yes 
-  - [  ] No
+  Pinneapple on pizza : 
+ - [ ] yes 
+ - [x] No
 
 #### Hobbies
 ---
