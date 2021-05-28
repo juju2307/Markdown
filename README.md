@@ -1,5 +1,5 @@
 # JULIE METZ
-> Croyez en vos rêves et ils se réaliseront peut-être. Croyez en vous et ils se réaliseront sûremenent!
+> Believe in your dreams and they may come true. Believe in you and they will surely come true!
 > - Martin Luther King
 
 
