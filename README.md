@@ -3,7 +3,7 @@
 > - Martin Luther King
 
 
-![Image de moi](photocv2.JPG)
+![Image de moi](photocv2.JPG =50x50)
 
 
 ## Ergothérapeute en cours de formation en web development, organisée, ponctuelle et trvaillant facilement en équipe.
