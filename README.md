@@ -8,13 +8,17 @@
 
 ## Occupational therapist in the course of training in web development, organized, punctual and easily working as a team.
 
-  Question   |   Answer
+  **Question**   |  **Answer**
   ---------  |------------
   Birthday   |    23/07  
   Gender     |   Female
   Favorite Color |  Blue
   Favorite food | Pasta
-  Pinneapple on pizza | - [  ]yes / - [  ]No
+
+  Pinneapple on pizza :
+
+          - [  ] yes 
+	  - [  ] No
 
 ##### Hobbies
 ---
@@ -33,7 +37,6 @@ I am an organized, punctual person and I am persevering. I will be able to bring
   
 
 ##### A funny story
-rkini
 ---
 
 When I was 2 years old, an orang-outan entered my house. My mom tried to chase her away, but he was looking for food. He had escaped from the home of an individual who had exotic animals in his home.
@@ -47,7 +50,7 @@ orang-outan in my house
 
 
 
-[<< previous]() || JULIE || [next>>](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md)
+[<< previous](https://github.com/JPRA-Dev/challenge-markdown/blob/master/README.md) || JULIE || [next>>](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md)
 
 
 
