@@ -14,7 +14,7 @@
   Gender     |   Female
   Favorite Color |  Blue
   Favorite food | Pasta
-  Pinneapple on pizza | - [Yes] - [No]
+  Pinneapple on pizza | - [  ]yes / - [  ]No
 
 ##### Hobbies
 ---
