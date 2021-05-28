@@ -16,7 +16,7 @@
   Favorite food | Pasta
 
   Pinneapple on pizza :
-
+"markdown-checkbox.withBulletPoint":rue 
   - [  ] yes 
   - [  ] No
 
@@ -50,7 +50,7 @@ orang-outan in my house
 
 
 
-[<< previous](https://github.com/JPRA-Dev/challenge-markdown/blob/master/README.md) || JULIE || [next>>](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md)
+[<< previous](https://github.com/JPRA-Dev/challenge-markdown/blob/master/README.md) || JULIE || [next>>](https://github.com/LauraLucas3/challenge-markdown/blob/main/README.md)
 
 
 
