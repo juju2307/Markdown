@@ -17,10 +17,10 @@
 
   Pinneapple on pizza :
 
-          - [  ] yes 
-	  - [  ] No
+  - [  ] yes 
+  - [  ] No
 
-##### Hobbies
+#### Hobbies
 ---
 
 * Photo
@@ -29,14 +29,14 @@
   * Ornamental
 
 
-##### You can always count on me when
+#### You can always count on me when
 ---
 
 I am an organized, punctual person and I am persevering. I will be able to bring rigor to the group while also knowing how to have fun. I like ita lot of team work because there are many more ideas in 10 heads than in one. 
 
   
 
-##### A funny story
+#### A funny story
 ---
 
 When I was 2 years old, an orang-outan entered my house. My mom tried to chase her away, but he was looking for food. He had escaped from the home of an individual who had exotic animals in his home.
