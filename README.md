@@ -8,14 +8,14 @@
 
 ## Ergothérapeute en cours de formation en web development, organisée, ponctuelle et trvaillant facilement en équipe.
 
-  Birthday   |    23/07
------------- | -------------
+  Birthday   |    23/07  
   Gender     |   Female
   Favorite Color |  Blue
   Favorite food | Pasta
-  Pinneapple on pizza | - [Yes] - [No]
+  Pinneapple on pizza | - [ Yes ] - [ No ]
 
 
+ 
 
 
 
